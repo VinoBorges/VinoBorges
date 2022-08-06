@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vinicios Borges, músico, violoncelista e desenvolvedor web java full stack
+### Olá! Eu sou o Vinicios Borges, desenvolvedor web java full stack
 
 <div align="center">
   <a href="https://github.com/VinoBorges">
